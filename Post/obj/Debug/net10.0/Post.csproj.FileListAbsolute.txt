@@ -1,0 +1,14 @@
+C:\Users\vugarjs\source\repos\Post\Post\bin\Debug\net10.0\Post.exe
+C:\Users\vugarjs\source\repos\Post\Post\bin\Debug\net10.0\Post.deps.json
+C:\Users\vugarjs\source\repos\Post\Post\bin\Debug\net10.0\Post.runtimeconfig.json
+C:\Users\vugarjs\source\repos\Post\Post\bin\Debug\net10.0\Post.dll
+C:\Users\vugarjs\source\repos\Post\Post\bin\Debug\net10.0\Post.pdb
+C:\Users\vugarjs\source\repos\Post\Post\obj\Debug\net10.0\Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vugarjs\source\repos\Post\Post\obj\Debug\net10.0\Post.AssemblyInfoInputs.cache
+C:\Users\vugarjs\source\repos\Post\Post\obj\Debug\net10.0\Post.AssemblyInfo.cs
+C:\Users\vugarjs\source\repos\Post\Post\obj\Debug\net10.0\Post.csproj.CoreCompileInputs.cache
+C:\Users\vugarjs\source\repos\Post\Post\obj\Debug\net10.0\Post.dll
+C:\Users\vugarjs\source\repos\Post\Post\obj\Debug\net10.0\refint\Post.dll
+C:\Users\vugarjs\source\repos\Post\Post\obj\Debug\net10.0\Post.pdb
+C:\Users\vugarjs\source\repos\Post\Post\obj\Debug\net10.0\Post.genruntimeconfig.cache
+C:\Users\vugarjs\source\repos\Post\Post\obj\Debug\net10.0\ref\Post.dll

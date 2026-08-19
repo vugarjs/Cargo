@@ -1,0 +1,12 @@
+﻿using Post.Models;
+
+namespace Post
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+        }
+    }
+}
