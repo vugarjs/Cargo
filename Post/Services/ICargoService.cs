@@ -1,4 +1,5 @@
-﻿using Post.Models;
+﻿using Post.Enums;
+using Post.Models;
 
 namespace Post.Services;
 
@@ -19,5 +20,17 @@ public interface ICargoService
     {
         couriers[CouriersCount] = courier;
         CouriersCount++;
+    }
+    public void CreateOrder(CargoOrder order)
+    {
+        orders[OrderCount] = order;
+        OrderCount++;
+    }
+    public void CompleteOrder(int id)
+    {
+        if (orders[OrderCount].Id == id)
+        {
+            var order = OrderStatus.Delivered;
+        }
     }
 }

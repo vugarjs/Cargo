@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vugarjs\\source\\repos\\Post\\",
+  "WorkspaceRootPath": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vugarjs\\source\\repos\\post\\post\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vugarjs\\source\\repos\\post\\post\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vugarjs\\source\\repos\\post\\post\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vugarjs\\source\\repos\\post\\post\\models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vugarjs\\source\\repos\\post\\post\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vugarjs\\source\\repos\\post\\post\\services\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\services\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\services\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,17 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ICargoService.cs",
-              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\Post\\Post\\Services\\ICargoService.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Services\\ICargoService.cs",
               "RelativeDocumentMoniker": "Post\\Services\\ICargoService.cs",
-              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\Post\\Post\\Services\\ICargoService.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Services\\ICargoService.cs",
               "RelativeToolTip": "Post\\Services\\ICargoService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-19T13:32:54.277Z",
               "EditorCaption": ""
@@ -53,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\Post\\Post\\Enums\\OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Post\\Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\Post\\Post\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Enums\\OrderStatus.cs",
               "RelativeToolTip": "Post\\Enums\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,11 +70,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CargoOrder.cs",
-              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\Post\\Post\\Models\\CargoOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Models\\CargoOrder.cs",
               "RelativeDocumentMoniker": "Post\\Models\\CargoOrder.cs",
-              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\Post\\Post\\Models\\CargoOrder.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Models\\CargoOrder.cs",
               "RelativeToolTip": "Post\\Models\\CargoOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-19T13:21:36.449Z",
               "EditorCaption": ""
@@ -79,9 +83,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Courier.cs",
-              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\Post\\Post\\Courier.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Courier.cs",
               "RelativeDocumentMoniker": "Post\\Courier.cs",
-              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\Post\\Post\\Courier.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Courier.cs",
               "RelativeToolTip": "Post\\Courier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\Post\\Post\\Models\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Post\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\Post\\Post\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Models\\Customer.cs",
               "RelativeToolTip": "Post\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vugarjs\\source\\repos\\Post\\Post\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Program.cs",
               "RelativeDocumentMoniker": "Post\\Program.cs",
-              "ToolTip": "C:\\Users\\vugarjs\\source\\repos\\Post\\Post\\Program.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Program.cs",
               "RelativeToolTip": "Post\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

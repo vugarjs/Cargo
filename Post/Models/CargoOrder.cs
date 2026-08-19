@@ -12,7 +12,7 @@ public class CargoOrder
     public decimal TotalPrice { get; set; }
     public DateTime CreatedAt { get; set; }
 
-    public CargoOrder(Customer customerID, Courier courierID)
+    private CargoOrder(Customer customerID, Courier courierID)
     {
         IdCount++;
         Id = IdCount;
