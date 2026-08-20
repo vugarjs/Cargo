@@ -31,6 +31,7 @@ public interface ICargoService
         if (orders[OrderCount].Id == id)
         {
             var order = OrderStatus.Delivered;
+            Console.WriteLine("Your order is Delivered.");
         }
     }
 }

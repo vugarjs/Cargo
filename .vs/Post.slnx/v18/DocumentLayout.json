@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\models\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\models\\cargoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\services\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\services\\icargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|c:\\users\\vuqar\\desktop\\tasks\\cargo\\post\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0AA08E-47B5-AAA4-E192-0A4B2D9CDE44}|Post\\Post.csproj|solutionrelative:post\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ICargoService.cs",
               "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Services\\ICargoService.cs",
               "RelativeDocumentMoniker": "Post\\Services\\ICargoService.cs",
               "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Services\\ICargoService.cs",
               "RelativeToolTip": "Post\\Services\\ICargoService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwCAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-19T13:32:54.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Post\\Enums\\OrderStatus.cs",
@@ -83,10 +83,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Courier.cs",
-              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Courier.cs",
-              "RelativeDocumentMoniker": "Post\\Courier.cs",
-              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Courier.cs",
-              "RelativeToolTip": "Post\\Courier.cs",
+              "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Models\\Courier.cs",
+              "RelativeDocumentMoniker": "Post\\Models\\Courier.cs",
+              "ToolTip": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Models\\Courier.cs",
+              "RelativeToolTip": "Post\\Models\\Courier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-19T13:18:59.845Z",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Vuqar\\Desktop\\Tasks\\Cargo\\Post\\Program.cs",
               "RelativeDocumentMoniker": "Post\\Program.cs",

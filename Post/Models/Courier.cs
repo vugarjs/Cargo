@@ -1,4 +1,4 @@
-﻿namespace Post
+﻿namespace Post.Models
 {
     public class Courier
     {
